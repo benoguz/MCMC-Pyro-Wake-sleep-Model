@@ -2,7 +2,7 @@
  This repo contains Markov Chain Monte Carlo (MCMC) implementation of wake / sleep model by using Pyro. I reimplemented the work done with pymc3 on this blog earlier
  ( https://towardsdatascience.com/markov-chain-monte-carlo-in-python-44f7e609be98 )
  
-![image](https://user-images.githubusercontent.com/29160749/138592135-40377f56-269f-4425-806f-ac5c24ad6c34.png)
+![image](https://user-images.githubusercontent.com/29160749/138592169-c99298fd-3f4f-415c-af31-8a6a924077dc.png)
 
 ![image](https://user-images.githubusercontent.com/29160749/138588264-69c1b9db-227d-4bb2-b571-20ac758a7185.png)
 ![image](https://user-images.githubusercontent.com/29160749/138588296-2c638d99-8e1b-4f24-999b-2b340219fd6e.png)
