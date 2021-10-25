@@ -12,6 +12,7 @@
 
 ## Package versions:
 -pytorch -> 1.7.1+cu110
+
 -pyro -> 1.5.2
 
 # References:
