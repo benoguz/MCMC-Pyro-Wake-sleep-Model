@@ -10,6 +10,9 @@
 
 ![image](https://user-images.githubusercontent.com/29160749/138590896-5950180d-532a-4d0c-bf17-5b5b3ac03c29.png)
 
+## Package versions:
+-pytorch -> 1.7.1+cu110
+-pyro -> 1.5.2
 
 # References:
  
